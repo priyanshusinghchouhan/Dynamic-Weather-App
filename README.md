@@ -2,10 +2,6 @@
 
 A simple yet powerful weather app that fetches and displays real-time weather data based on the city name entered by the user. Built using HTML, CSS, and JavaScript, with weather data provided by the OpenWeatherMap API.
 
-🔗 Live Demo
-🌐 View Live App: https://your-deployment-link.com
-
-
 ### 🚀 Features
 - Search weather by city name
 - Real-time temperature, humidity, wind speed
