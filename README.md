@@ -68,4 +68,4 @@ const API_KEY = "YOUR_API_KEY";
 
 🙋‍♂️ Author
 Priyanshu Singh Chouhan
-GitHub: https://github.com/Priyanshu5088
+GitHub: https://github.com/priyanshusinghchouhan
